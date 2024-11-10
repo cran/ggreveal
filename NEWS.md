@@ -1,5 +1,7 @@
-# ggreveal 0.1.2
+# ggreveal 0.1.4
 
-# ggreveal 0.1.1
+* Remove unecessary dependency on package `lemon`.
 
-* Initial CRAN submission.
+# ggreveal 0.1.3
+
+* First version on CRAN. 
